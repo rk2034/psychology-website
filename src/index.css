@@ -280,22 +280,13 @@ body {
 }
 
 .brand-phone-link {
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: 0.75rem;
-  text-align: left;
-}
-
-.brand-phone-link i {
-  margin-bottom: 0;
-  flex: 0 0 auto;
+  text-align: center;
 }
 
 .brand-phone-numbers {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.15rem;
   color: var(--bs-body-color);
   font-size: 0.95rem;
