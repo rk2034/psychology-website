@@ -59,6 +59,10 @@ body {
   color: var(--brand-green-text) !important;
 }
 
+.section-eyebrow {
+  color: rgb(139 92 120 / 55%);
+}
+
 .bi {
   color: var(--brand-purple);
 }

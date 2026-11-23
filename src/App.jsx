@@ -185,7 +185,7 @@ function About() {
       <div className="container py-lg-5">
         <div className="row align-items-start g-4">
           <div className="col-lg-5">
-            <span className="text-success fw-semibold">ABOUT US</span>
+            <span className="section-eyebrow fw-semibold">ABOUT US</span>
             <h2 className="display-6 fw-bold mt-3">Your journey deserves understanding.</h2>
           </div>
           <div className="col-lg-7">
@@ -239,7 +239,7 @@ function Services() {
     <section id="services" className="py-5 bg-light">
       <div className="container py-lg-5">
         <div className="text-center mb-5">
-          <span className="text-success fw-semibold">OUR SERVICES</span>
+          <span className="section-eyebrow fw-semibold">OUR SERVICES</span>
           <h2 className="display-6 fw-bold mt-2">Support for Your Journey</h2>
           <p className="text-secondary">Explore the services offered by the counselling practice.</p>
         </div>
@@ -265,7 +265,7 @@ function Approach() {
   return (
     <section className="py-5">
       <div className="container py-lg-5 text-center">
-        <span className="text-success fw-semibold">OUR APPROACH</span>
+        <span className="section-eyebrow fw-semibold">OUR APPROACH</span>
         <h2 className="display-6 fw-bold mt-3">Care That Respects Your Journey</h2>
         <div className="row g-4 mt-4">
           {values.map((value) => (
